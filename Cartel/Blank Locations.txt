@@ -1,0 +1,1 @@
+Blank Locations are to be installed into the Locations.xml between the <BlankLocations> </BlankLocations> section of the xml file.

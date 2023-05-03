@@ -20,7 +20,7 @@
       </EntrancePosition>
       <EntranceHeading>-111.362343</EntranceHeading>
       <OpenTime>12</OpenTime>
-      <CloseTime>14</CloseTime>
+      <CloseTime>20</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -51,7 +51,7 @@
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
           <MinHourSpawn>12</MinHourSpawn>
-          <MaxHourSpawn>14</MaxHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -79,7 +79,7 @@
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
           <MinHourSpawn>12</MinHourSpawn>
-          <MaxHourSpawn>14</MaxHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -104,7 +104,7 @@
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
           <MinHourSpawn>12</MinHourSpawn>
-          <MaxHourSpawn>15</MaxHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
