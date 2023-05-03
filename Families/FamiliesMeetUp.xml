@@ -1,7 +1,7 @@
     <BlankLocation>
       <Name>FamiliesMeetUp</Name>
       <FullName>FamiliesMeetUp</FullName>
-      <Description>A small Families gathering, Located on the corner of Carson Avenue and Innocence Boulevard.</Description>
+      <Description>A small Families gathering, Located on the corner of "Carson Avenue" and "Innocence Boulevard".</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
