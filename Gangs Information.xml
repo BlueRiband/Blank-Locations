@@ -210,11 +210,11 @@
 
  an example entry:
 		  
-		  <ForcedScenarios>
-            <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+		<ForcedScenarios>
+			<string>WORLD_HUMAN_HANG_OUT_STREET</string>
 			<string>WORLD_HUMAN_DRINKING</string>
 			<string>WORLD_HUMAN_SMOKING</string>
 			<string>WORLD_HUMAN_SMOKING_POT</string>
 			<string>WORLD_HUMAN_DRUG_DEALER</string>
 			<string>WORLD_HUMAN_STAND_MOBILE</string>
-          </ForcedScenarios>	
+		</ForcedScenarios>	
