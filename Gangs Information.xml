@@ -175,15 +175,15 @@
 	
 	a few example lines:	
 
-    1. 		<TaskRequirements>None</TaskRequirements>	
+	1.	<TaskRequirements>None</TaskRequirements>	
 	
-	2.	    <TaskRequirements>Guard</TaskRequirements>
+	2.	<TaskRequirements>Guard</TaskRequirements>
 	
-	3.		<TaskRequirements>Patrol</TaskRequirements>
+	3.	<TaskRequirements>Patrol</TaskRequirements>
 		  		  
-    4.      <TaskRequirements>Guard CanMoveWhenGuarding Patrol</TaskRequirements>	
+	4.	<TaskRequirements>Guard CanMoveWhenGuarding Patrol</TaskRequirements>	
 		  		
-    5.      <TaskRequirements>Guard CanMoveWhenGuarding EquipSidearmWhenIdle</TaskRequirements>
+	5.	<TaskRequirements>Guard CanMoveWhenGuarding EquipSidearmWhenIdle</TaskRequirements>
 		  
 
 		  
@@ -193,17 +193,17 @@
  - Some Useable <ForcedScenarios> -
 
 
-    1.        <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+	1.	<string>WORLD_HUMAN_HANG_OUT_STREET</string>
 	
-	2.		 <string>WORLD_HUMAN_DRINKING</string>
+	2.	<string>WORLD_HUMAN_DRINKING</string>
 	
-	3.		 <string>WORLD_HUMAN_SMOKING</string>
+	3.	<string>WORLD_HUMAN_SMOKING</string>
 	
-	4.		 <string>WORLD_HUMAN_SMOKING_POT</string>
+	4.	<string>WORLD_HUMAN_SMOKING_POT</string>
 	
-	5.		 <string>WORLD_HUMAN_DRUG_DEALER</string>
+	5.	<string>WORLD_HUMAN_DRUG_DEALER</string>
 	
-	6.		 <string>WORLD_HUMAN_STAND_MOBILE</string>
+	6.	<string>WORLD_HUMAN_STAND_MOBILE</string>
 
 *Note* other Scenarios can be @ https://wiki.rage.mp/index.php?title=Scenarios or by searching online 
 
