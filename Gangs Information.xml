@@ -1,5 +1,5 @@
 
-
+Usable information for setting up BlankLocations.
 
 -----------------------------------------------------
  - Ancelotti -
@@ -205,10 +205,10 @@
 	
 	6.	<string>WORLD_HUMAN_STAND_MOBILE</string>
 
-*Note* other Scenarios can be @ https://wiki.rage.mp/index.php?title=Scenarios or by searching online 
+*Note* other Scenarios can found be @ https://wiki.rage.mp/index.php?title=Scenarios or by searching online and using one of the ForcedScenarios names(WORLD_HUMAN_SMOKING_POT) for a more detailed seach result.
 
 
- an example entry:
+ an example snippet:
 		  
 		<ForcedScenarios>
 			<string>WORLD_HUMAN_HANG_OUT_STREET</string>
@@ -218,3 +218,8 @@
 			<string>WORLD_HUMAN_DRUG_DEALER</string>
 			<string>WORLD_HUMAN_STAND_MOBILE</string>
 		</ForcedScenarios>	
+
+	 
+	 
+	 
+	 
