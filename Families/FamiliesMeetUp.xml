@@ -19,8 +19,8 @@
         <Z>31.2852478</Z>
       </EntrancePosition>
       <EntranceHeading>-179.481491</EntranceHeading>
-      <OpenTime>20</OpenTime>
-      <CloseTime>24</CloseTime>
+      <OpenTime>18</OpenTime>
+      <CloseTime>3</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -38,7 +38,7 @@
         <Z>31.2852478</Z>
           </Location>
           <Heading>-179.481491</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>Guard</TaskRequirements>
@@ -52,8 +52,8 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -68,7 +68,7 @@
         <Z>31.2626019</Z>
           </Location>
           <Heading>-127.076248</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>Guard</TaskRequirements>
@@ -82,8 +82,8 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -98,7 +98,7 @@
         <Z>31.2615414</Z>
           </Location>
           <Heading>3.284423</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>Guard</TaskRequirements>
@@ -112,8 +112,8 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -128,7 +128,7 @@
         <Z>31.24565</Z>
           </Location>
           <Heading>118.851776</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>Guard</TaskRequirements>
@@ -142,8 +142,8 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -158,7 +158,7 @@
         <Z>31.2829552</Z>
           </Location>
           <Heading>-6.89652061</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>Guard</TaskRequirements>
@@ -172,8 +172,8 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -190,15 +190,15 @@
         <Z>30.8106174</Z>
           </Location>
           <Heading>-38.8602142</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>None</TaskRequirements>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -213,15 +213,15 @@
         <Z>30.8233585</Z>
           </Location>
           <Heading>139.328049</Heading>
-          <Percentage>100</Percentage>
+          <Percentage>45</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
           <TaskRequirements>None</TaskRequirements>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>3</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
