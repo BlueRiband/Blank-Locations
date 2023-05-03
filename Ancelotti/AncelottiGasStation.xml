@@ -1,13 +1,13 @@
     <BlankLocation>
       <Name>AncelottiGasStation</Name>
       <FullName>AncelottiGasStation</FullName>
-      <Description>2 Ancelotti members having a break at a Gas Station, Located at the start of "Route 68" coming from "Great Ocean Highway".</Description>
+      <Description>Ancelotti's having a break at a Gas Station located at the start of "Route 68" coming from "Great Ocean Highway".</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>false</IsBlipEnabled>
-      <MapIcon>86</MapIcon>
+      <MapIcon>76</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>1</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
