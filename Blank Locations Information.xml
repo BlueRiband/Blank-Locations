@@ -8,12 +8,11 @@ Blank-Locations
 
 - Contains Information for setting up BlankLocations. -
 
-
-ForcedScenarios
 Gang Id's
-Law Enforcement Id's
 MapIcon Id's
 Security Id's
+Law Enforcement Id's
+ForcedScenarios
 TaskRequirements
 
 -----------------------------------------------------
@@ -128,6 +127,134 @@ Gangs
 <ID>AMBIENT_GANG_YARDIES</ID>
 <MapIcon>47</MapIcon>
 
+-----------------------------------------------------
+////////////////////////////////////////////////////
+-----------------------------------------------------
+Security Ids
+-----------------------------------------------------
+ - Bobcat Security -
+
+<ID>BOBCAT</ID>
+
+-----------------------------------------------------
+- Merryweather Security -
+
+<ID>MERRY</ID>
+
+-----------------------------------------------------
+ - SecuroServ - 
+
+<ID>SECURO</ID>
+
+-----------------------------------------------------
+- Gruppe Sechs - 
+
+<ID>GRP6</ID>
+
+-----------------------------------------------------
+////////////////////////////////////////////////////
+-----------------------------------------------------
+Law Enforcement
+-----------------------------------------------------
+- Liberty City Police Department - 
+
+<ID>LCPD</ID>
+-----------------------------------------------------
+- North Yankton State Patrol - 
+
+<ID>NYSP</ID>
+-----------------------------------------------------
+- Unknown Agency -
+
+<ID>UNK</ID>
+-----------------------------------------------------
+ - Army - 
+
+<ID>ARMY</ID>
+-----------------------------------------------------
+- San Andreas Coast Guard -
+
+<ID>SACG</ID>
+-----------------------------------------------------
+ - San Andreas Park Ranger -
+
+<ID>SAPR</ID>
+-----------------------------------------------------
+- San Andreas State Prison Authority - 
+
+<ID>SASPA</ID>
+-----------------------------------------------------
+ - San Andreas Highway Patrol - 
+
+<ID>SAHP</ID>
+-----------------------------------------------------
+ - DOA -
+
+<ID>DOA</ID>
+-----------------------------------------------------
+ - Federal Investigation Bureau - 
+
+<ID>FIB</ID>
+-----------------------------------------------------
+ - National Office of Security Enforcement - 
+
+<ID>NOOSE</ID>
+-----------------------------------------------------
+ - Los Santos International Airport Police Department -
+
+<ID>LSIAPD</ID>
+-----------------------------------------------------
+ - Los Santos Port Police - 
+
+<ID>LSPP</ID>
+-----------------------------------------------------
+ - Los Santos Sheriffs Department - Air Support Division -
+
+<ID>LSSD-ASD</ID>
+-----------------------------------------------------
+ - Los Santos Sheriff - Majestic County Division - 
+
+<ID>LSSD-MJ</ID>
+-----------------------------------------------------
+ - Los Santos Sheriff - Blaine County Division - 
+
+<ID>LSSD-BC</ID>
+-----------------------------------------------------
+ - Los Santos Sheriff - Davis Division - 
+
+<ID>LSSD-DV</ID>
+-----------------------------------------------------
+ - Los Santos Sheriff - Vinewood Division - 
+
+<ID>LSSD-VW</ID>
+-----------------------------------------------------
+ - Los Santos County Sheriff - 
+
+<ID>LSSD</ID>
+-----------------------------------------------------
+ - Los Santos Police Department - Air Support Division -
+
+<ID>LSPD-ASD</ID>
+-----------------------------------------------------
+ - Los Santos Police - Rockford Hills Division - 
+
+<ID>LSPD-RH</ID>
+-----------------------------------------------------
+ - Los Santos Police - Del Perro Division - 
+
+<ID>LSPD-DP</ID>
+-----------------------------------------------------
+ - Los Santos Police - East Los Santos Division - 
+
+<ID>LSPD-ELS</ID>
+-----------------------------------------------------
+ - Los Santos Police - Vinewood Division - 
+
+<ID>LSPD-VW</ID>
+-----------------------------------------------------
+ - Los Santos Police Department - 
+
+<ID>LSPD</ID>
 -----------------------------------------------------
 /////////////////////////////////////////////////////
 -----------------------------------------------------
