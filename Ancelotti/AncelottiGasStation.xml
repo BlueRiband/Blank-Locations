@@ -1,4 +1,5 @@
-    <BlankLocation>
+ //Included in LSR//   
+	<BlankLocation>
       <Name>AncelottiGasStation</Name>
       <FullName>AncelottiGasStation</FullName>
       <Description>2 Ancelotti members having a break at a Gas Station, located at the start of "Route 68" coming from "Great Ocean Highway".</Description>
@@ -41,7 +42,7 @@
           <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
-          <TaskRequirements>Guard StandardScenario</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
           <ForcedScenarios>
 			<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
 			<string>WORLD_HUMAN_AA_COFFEE</string>
@@ -69,7 +70,7 @@
           <Percentage>100</Percentage>
           <IsEmpty>true</IsEmpty>
           <GroupID />
-          <TaskRequirements>Guard StandardScenario</TaskRequirements>
+          <TaskRequirements>Guard</TaskRequirements>
           <ForcedScenarios>
 			<string>WORLD_HUMAN_TOURIST_MAP</string>
 			<string>WORLD_HUMAN_AA_COFFEE</string>
