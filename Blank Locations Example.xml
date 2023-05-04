@@ -1,10 +1,10 @@
     
 	BlankLocation *WIP*  information example.
-	*The Example will only require x/y/z and heading details to function right away without further edits*
+	*The Example will only require X/Y/Z and EntranceHeading/Heading details to function right away without further edits*
+
 	Includes:
-	
-	Spawn Entry for 2 PossiblePedSpawns 
-	Spawn Entry for 1 PossibleVehicleSpawns
+	Entry for 2 PossiblePedSpawns 
+	Entry for 1 PossibleVehicleSpawns
 	
 
 	
