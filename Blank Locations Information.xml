@@ -2,18 +2,18 @@
 @PeterBadoingy 
 PeterBadoingy
 
-Blank-Locations are entries for the Locations.xml located in Plugins\LosSantosRED
+	Blank-Locations are entries for the Locations.xml located in Plugins\LosSantosRED
 
  
 
-- Contains Information for setting up BlankLocations. -
+	- Contains Some Information for setting up BlankLocations. -
 
-Gang Id's
-MapIcon Id's
-Security Id's
-Law Enforcement Id's
-ForcedScenarios
-TaskRequirements
+	Gang Id's
+	MapIcon Id's
+	Security Id's
+	Law Enforcement Id's
+	ForcedScenarios
+	TaskRequirements
 
 ----------------------------------------------------------------------------------------------------------
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
