@@ -305,10 +305,10 @@ TaskRequirements
 	5.	<string>WORLD_HUMAN_DRUG_DEALER</string>
 	
 	6.	<string>WORLD_HUMAN_STAND_MOBILE</string>
+.
 
-*Note* other Scenarios can found be @ https://wiki.rage.mp/index.php?title=Scenarios or by searching online and using one of the ForcedScenarios names(WORLD_HUMAN_SMOKING_POT) for a more detailed seach result.
-
-
+When a Ped is spawned into the LSR world it will use 1 of the ForcedScenarios that's been listed.
+	 
  an example snippet:
 		  
 		<ForcedScenarios>
@@ -320,7 +320,8 @@ TaskRequirements
 			<string>WORLD_HUMAN_STAND_MOBILE</string>
 		</ForcedScenarios>	
 
-	 
+*Note* other Scenarios can found be @ https://wiki.rage.mp/index.php?title=Scenarios 
+or by searching online and using one of the ForcedScenarios names(WORLD_HUMAN_SMOKING_POT) for a more detailed search result.	 
 ----------------------------------------------------------------------------------------------------------
 //////////////////////////////////////////////////////////////////////////////////////////////////////////	 
 ----------------------------------------------------------------------------------------------------------
