@@ -1,13 +1,12 @@
- 	<BlankLocation>
+    <BlankLocation>
       <Name>DiablosUnderBridge</Name>
-      <FullName>DiablosUnderBridge</FullName>
-      <Description>4 Diablo members 1 vehicle,located Under the "Elysian Fields Freeway" near "Voodoo Place".</Description>
+      <Description>4 Diablo members 1 vehicle,located Under the "Elysian Fields Freeway" near "Voodoo Place"</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>false</IsBlipEnabled>
-      <MapIcon>355</MapIcon>
+      <MapIcon>162</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>1</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -19,8 +18,8 @@
         <Z>6.013142</Z>
       </EntrancePosition>
       <EntranceHeading>-119.707268</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
+      <OpenTime>18</OpenTime>
+      <CloseTime>2</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -30,146 +29,7 @@
       <SortOrder>999</SortOrder>
       <ScannerFilePath />
       <ActivateCells>8</ActivateCells>
-      <PossiblePedSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-        <X>226.562225</X>
-        <Y>-2649.64844</Y>
-        <Z>6.013142</Z>	  
-          </Location>
-          <Heading>-119.707268</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <GroupID />
-          <TaskRequirements>Guard</TaskRequirements>
-          <ForcedScenarios>
-			<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
-			<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
-			<string>WORLD_HUMAN_DRINKING</string>		
-          </ForcedScenarios>			  
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-        <X>227.356323</X>
-        <Y>-2649.26245</Y>
-        <Z>6.011755</Z>
-          </Location>
-		  <Heading>173.294861</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <GroupID />
-          <TaskRequirements>Guard</TaskRequirements>
-          <ForcedScenarios>
-			<string>WORLD_HUMAN_DRUG_DEALER</string>		  
-            <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-			<string>WORLD_HUMAN_DRINKING</string>
-          </ForcedScenarios>			  
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-        <X>227.254562</X>
-        <Y>-2658.76514</Y>
-        <Z>5.996807</Z>
-          </Location>
-		  <Heading>8.154132</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <GroupID />
-          <TaskRequirements>Guard</TaskRequirements>
-          <ForcedScenarios>
-			<string>WORLD_HUMAN_STAND_MOBILE</string>		  
-			<string>WORLD_HUMAN_SMOKING_POT</string>
-			<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
-          </ForcedScenarios>				  
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-        </ConditionalLocation>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-        <X>227.146591</X>
-        <Y>-2650.60547</Y>
-        <Z>6.008636</Z>
-          </Location>
-		  <Heading>6.473634</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <GroupID />
-          <TaskRequirements>Guard</TaskRequirements>
-          <ForcedScenarios>
-			<string>WORLD_HUMAN_PARTYING</string>		  
-			<string>WORLD_HUMAN_SMOKING_POT</string>
-			<string>WORLD_HUMAN_DRUG_DEALER</string>
-          </ForcedScenarios>				  
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-        </ConditionalLocation>		
-      </PossiblePedSpawns>
-      <PossibleVehicleSpawns>
-        <ConditionalLocation xsi:type="GangConditionalLocation">
-          <Location>
-        <X>227.7079</X>
-        <Y>-2660.66943</Y>
-        <Z>5.29467869</Z>
-          </Location>
-          <Heading>124.063469</Heading>
-          <Percentage>100</Percentage>
-          <IsEmpty>true</IsEmpty>
-          <GroupID />
-          <TaskRequirements>None</TaskRequirements>
-          <OverrideNightPercentage>-1</OverrideNightPercentage>
-          <OverrideDayPercentage>-1</OverrideDayPercentage>
-          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
-          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-          <ForceMelee>false</ForceMelee>
-          <ForceSidearm>false</ForceSidearm>
-          <ForceLongGun>false</ForceLongGun>
-        </ConditionalLocation>
-      </PossibleVehicleSpawns>	  
-	  <AssignedAgencyID>AMBIENT_GANG_DIABLOS</AssignedAgencyID>
+      <AssignedAssociationID>AMBIENT_GANG_DIABLOS</AssignedAssociationID>
       <VendorPosition>
         <X>0</X>
         <Y>0</Y>
@@ -194,4 +54,185 @@
       <CanInteractWhenWanted>false</CanInteractWhenWanted>
       <ShowsMarker>false</ShowsMarker>
       <ActivateDistance>400</ActivateDistance>
-    </BlankLocation> 
+      <PossibleGroupSpawns>
+        <ConditionalGroup>
+          <Percentage>75</Percentage>
+          <OverrideNightPercentage>-1</OverrideNightPercentage>
+          <OverrideDayPercentage>-1</OverrideDayPercentage>
+          <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+          <MinHourSpawn>12</MinHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
+          <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+          <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+          <PossiblePedSpawns>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+		<X>226.562225</X>
+		<Y>-2649.64844</Y>
+		<Z>6.013142</Z>	
+              </Location>
+              <Heading>-119.707268</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
+		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+		<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+		<string>WORLD_HUMAN_DRINKING</string>	
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+		<X>227.356323</X>
+		<Y>-2649.26245</Y>
+		<Z>6.011755</Z>
+              </Location>
+              <Heading>173.294861</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
+		<string>WORLD_HUMAN_DRUG_DEALER</string>		  
+		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
+		<string>WORLD_HUMAN_DRINKING</string>
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>		  
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+		<X>227.254562</X>
+		<Y>-2658.76514</Y>
+		<Z>5.996807</Z>
+              </Location>
+              <Heading>8.154132</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
+		<string>WORLD_HUMAN_STAND_MOBILE</string>		  
+		<string>WORLD_HUMAN_SMOKING_POT</string>
+		<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+		<X>227.146591</X>
+		<Y>-2650.60547</Y>
+		<Z>6.008636</Z>
+              </Location>
+              <Heading>6.473634</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
+		<string>WORLD_HUMAN_PARTYING</string>		  
+		<string>WORLD_HUMAN_SMOKING_POT</string>
+		<string>WORLD_HUMAN_DRUG_DEALER</string>
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+          </PossiblePedSpawns>
+          <PossibleVehicleSpawns>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+		<X>227.7079</X>
+		<Y>-2660.66943</Y>
+		<Z>5.29467869</Z>
+              </Location>
+              <Heading>124.063469</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>None</TaskRequirements>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>		
+          </PossibleVehicleSpawns>
+        </ConditionalGroup>
+      </PossibleGroupSpawns>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+    </BlankLocation>	
