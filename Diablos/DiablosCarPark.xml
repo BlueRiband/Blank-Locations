@@ -6,7 +6,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>false</IsBlipEnabled>
-      <MapIcon>162</MapIcon>
+      <MapIcon>355</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>1</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
