@@ -1,7 +1,7 @@
     <BlankLocation>
       <Name>HornyBurgersCops</Name>
       <FullName>HornyBurgersCops</FullName>
-      <Description>SpeedTrap Cops at the Horny Burgers shop</Description>
+      <Description>SpeedTrap Cop at the Horny Burgers shop</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
