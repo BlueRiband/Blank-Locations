@@ -1,12 +1,12 @@
     <BlankLocation>
       <Name>DiablosCarPark</Name>
-      <Description>10 Diablo Members 4 Vehicls Car park Gathering, Located on "Chum Street" just off "Signal Street" bridge</Description>
+      <Description>10 Diablo Members 4 Vehicles Car park Gathering, Located on "Chum Street" just off "Signal Street" bridge</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>false</IsBlipEnabled>
-      <MapIcon>355</MapIcon>
+      <MapIcon>162</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>1</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -18,8 +18,8 @@
         <Z>6.37134743</Z>
       </EntrancePosition>
       <EntranceHeading>88.9995041</EntranceHeading>
-      <OpenTime>0</OpenTime>
-      <CloseTime>24</CloseTime>
+      <OpenTime>18</OpenTime>
+      <CloseTime>4</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -56,11 +56,11 @@
       <ActivateDistance>400</ActivateDistance>
       <PossibleGroupSpawns>
         <ConditionalGroup>
-          <Percentage>75</Percentage>
+          <Percentage>100</Percentage>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>20</MinHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
           <MaxHourSpawn>4</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
@@ -86,8 +86,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -117,8 +117,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -179,8 +179,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -210,8 +210,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -234,15 +234,15 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-	 	<string>WORLD_HUMAN_PARTYING</string>
+		<string>WORLD_HUMAN_PARTYING</string>
 		<string>WORLD_HUMAN_DRUG_DEALER</string>
 		<string>WORLD_HUMAN_STAND_MOBILE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -272,8 +272,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -297,14 +297,14 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-	        <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+	    	<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
 		<string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -334,8 +334,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -359,14 +359,14 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-	    	<string>WORLD_HUMAN_SMOKING_POT</string>
-	    	<string>WORLD_HUMAN_PARTYING</string>
+	    		<string>WORLD_HUMAN_SMOKING_POT</string>
+	    		<string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -393,8 +393,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -419,8 +419,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -445,8 +445,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -471,8 +471,8 @@
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>20</MinHourSpawn>
-              <MaxHourSpawn>4</MaxHourSpawn>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
               <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
               <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
               <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
@@ -499,4 +499,4 @@
         <Roll>0</Roll>
         <Yaw>0</Yaw>
       </VehiclePreviewCameraRotation>
-    </BlankLocation>
+    </BlankLocation>	
