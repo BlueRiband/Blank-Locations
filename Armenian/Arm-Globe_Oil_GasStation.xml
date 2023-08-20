@@ -13,9 +13,9 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-		<X>-339.783447</X>
-		<Y>-1463.81116</Y>
-		<Z>30.2949715</Z>
+	<X>-339.783447</X>
+	<Y>-1463.81116</Y>
+	<Z>30.2949715</Z>
       </EntrancePosition>
       <EntranceHeading>-111.3623</EntranceHeading>
       <OpenTime>6</OpenTime>
@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-341.025482</X>
-				<Y>-1460.56055</Y>
-				<Z>30.7532063</Z>
+		<X>-341.025482</X>
+		<Y>-1460.56055</Y>
+		<Z>30.7532063</Z>
               </Location>
               <Heading>-175.107147</Heading>
               <Percentage>0</Percentage>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-342.3172</X>
-				<Y>-1460.754</Y>
-				<Z>30.7542648</Z>
+		<X>-342.3172</X>
+		<Y>-1460.754</Y>
+		<Z>30.7542648</Z>
               </Location>
               <Heading>-126.95813</Heading>
               <Percentage>0</Percentage>
@@ -129,9 +129,9 @@
             </ConditionalLocation>		  
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-342.598877</X>
-				<Y>-1462.05017</Y>
-				<Z>30.61145</Z>
+		<X>-342.598877</X>
+		<Y>-1462.05017</Y>
+		<Z>30.61145</Z>
               </Location>
               <Heading>-89.4807053</Heading>
               <Percentage>0</Percentage>
@@ -160,9 +160,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-340.32193</X>
-				<Y>-1462.54675</Y>
-				<Z>30.6085739</Z>
+		<X>-340.32193</X>
+		<Y>-1462.54675</Y>
+		<Z>30.6085739</Z>
               </Location>
               <Heading>29.692131</Heading>
               <Percentage>0</Percentage>
@@ -193,9 +193,9 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-339.783447</X>
-				<Y>-1463.81116</Y>
-				<Z>30.2949715</Z>
+		<X>-339.783447</X>
+		<Y>-1463.81116</Y>
+		<Z>30.2949715</Z>
               </Location>
               <Heading>-82.8643646</Heading>
               <Percentage>0</Percentage>
@@ -219,9 +219,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-				<X>-337.9729</X>
-				<Y>-1459.47632</Y>
-				<Z>30.2743855</Z>
+		<X>-337.9729</X>
+		<Y>-1459.47632</Y>
+		<Z>30.2743855</Z>
               </Location>
               <Heading>99.35658</Heading>
               <Percentage>0</Percentage>
