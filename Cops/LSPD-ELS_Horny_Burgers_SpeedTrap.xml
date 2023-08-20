@@ -57,9 +57,9 @@
       <PossibleVehicleSpawns>
         <ConditionalLocation xsi:type="LEConditionalLocation">
           <Location>
-			<X>1245.83533</X>
-			<Y>-334.401123</Y>
-			<Z>68.782135</Z>
+	      <X>1245.83533</X>
+	      <Y>-334.401123</Y>
+	      <Z>68.782135</Z>
           </Location>
           <Heading>171.96347</Heading>
           <Percentage>55</Percentage>
