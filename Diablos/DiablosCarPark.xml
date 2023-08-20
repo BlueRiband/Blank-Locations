@@ -359,8 +359,8 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-	    		<string>WORLD_HUMAN_SMOKING_POT</string>
-	    		<string>WORLD_HUMAN_PARTYING</string>
+	    	<string>WORLD_HUMAN_SMOKING_POT</string>
+	    	<string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
