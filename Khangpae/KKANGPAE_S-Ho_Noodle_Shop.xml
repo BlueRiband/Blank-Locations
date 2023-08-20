@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>-704.411133</X>
-        <Y>-886.581055</Y>
-        <Z>23.8038883</Z>
+        <X>-705.266541</X>
+        <Y>-886.135559</Y>
+        <Z>23.80288</Z>
       </EntrancePosition>
-      <EntranceHeading>11.4982653</EntranceHeading>
+      <EntranceHeading>-103.394684</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -98,11 +98,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-656.740967</X>
-                <Y>-854.049</Y>
-                <Z>24.5033512</Z>
+                <X>-703.976</X>
+                <Y>-885.8718</Y>
+                <Z>23.8021259</Z>
               </Location>
-              <Heading>-96.89277</Heading>
+              <Heading>136.1898</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -129,11 +129,11 @@
             </ConditionalLocation>		  
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-668.4552</X>
-                <Y>-852.5809</Y>
-                <Z>24.2697029</Z>
+                <X>-705.266541</X>
+                <Y>-886.135559</Y>
+                <Z>23.80288</Z>
               </Location>
-              <Heading>-108.265938</Heading>
+              <Heading>-103.394684</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -160,11 +160,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-704.3148</X>
-                <Y>-884.8962</Y>
-                <Z>23.8005848</Z>
+                <X>-705.9953</X>
+                <Y>-878.090759</Y>
+                <Z>23.5749931</Z>
               </Location>
-              <Heading>124.746735</Heading>
+              <Heading>27.5263481</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
