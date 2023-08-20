@@ -1,7 +1,7 @@
     <BlankLocation>
       <Name>BishopsChickenCop</Name>
       <FullName>BishopsChickenCop</FullName>
-      <Description>A Cops at the Bishop's Chicken Shop</Description>
+      <Description>A Cop at the Bishop's Chicken Shop</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
