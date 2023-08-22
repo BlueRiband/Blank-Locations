@@ -60,16 +60,16 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>8</MinHourSpawn>
+          <MinHourSpawn>6</MinHourSpawn>
           <MaxHourSpawn>18</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1198.68945</X>
-		<Y>1836.50574</Y>
-		<Z>78.85123</Z>
+                <X>1198.68945</X>
+                <Y>1836.50574</Y>
+                <Z>78.85123</Z>
               </Location>
               <Heading>26.2503586</Heading>
               <Percentage>0</Percentage>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1198.32</X>
-		<Y>1839.74487</Y>
-		<Z>78.7323</Z>
+                <X>1198.32</X>
+                <Y>1839.74487</Y>
+                <Z>78.7323</Z>
               </Location>
               <Heading>118.935829</Heading>
               <Percentage>0</Percentage>
@@ -131,9 +131,9 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1198.72668</X>
-		<Y>1834.9823</Y>
-		<Z>78.53899</Z>
+                <X>1198.72668</X>
+                <Y>1834.9823</Y>
+                <Z>78.53899</Z>
               </Location>
               <Heading>-78.52052</Heading>
               <Percentage>0</Percentage>

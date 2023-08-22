@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1531.92786</X>
-		<Y>1729.4469</Y>
-		<Z>109.914108</Z>
+                <X>1531.92786</X>
+                <Y>1729.4469</Y>
+                <Z>109.914108</Z>
               </Location>
               <Heading>102.17794</Heading>
               <Percentage>0</Percentage>
@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
               </ForcedScenarios>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1530.79565</X>
-		<Y>1726.67029</Y>
-		<Z>109.98616</Z>
+                <X>1530.79565</X>
+                <Y>1726.67029</Y>
+                <Z>109.98616</Z>
               </Location>
               <Heading>134.10907</Heading>
               <Percentage>0</Percentage>
@@ -110,7 +110,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_SMOKING_POT</string>
+                <string>WORLD_HUMAN_SMOKING_POT</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
               </ForcedScenarios>
@@ -129,9 +129,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1530.41748</X>
-		<Y>1725.22681</Y>
-		<Z>110.103813</Z>
+                <X>1530.41748</X>
+                <Y>1725.22681</Y>
+                <Z>110.103813</Z>
               </Location>
               <Heading>-10.73689</Heading>
               <Percentage>0</Percentage>
@@ -143,7 +143,7 @@
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_MOBILE</string>
-		<string>WORLD_HUMAN_DRINKING</string>
+                <string>WORLD_HUMAN_DRINKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -160,9 +160,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1529.72241</X>
-		<Y>1725.99316</Y>
-		<Z>110.021927</Z>
+                <X>1529.72241</X>
+                <Y>1725.99316</Y>
+                <Z>110.021927</Z>
               </Location>
               <Heading>-49.0060349</Heading>
               <Percentage>0</Percentage>
@@ -174,7 +174,7 @@
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
-		<string>WORLD_HUMAN_SMOKING</string>
+                <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -191,9 +191,9 @@
             </ConditionalLocation>	
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1527.04614</X>
-		<Y>1712.29175</Y>
-		<Z>109.983917</Z>
+                <X>1527.04614</X>
+                <Y>1712.29175</Y>
+                <Z>109.983917</Z>
               </Location>
               <Heading>-9.08828</Heading>
               <Percentage>0</Percentage>
@@ -203,7 +203,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
               </ForcedScenarios>
@@ -219,14 +219,14 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>				
+            </ConditionalLocation>
           </PossiblePedSpawns>
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1528.48022</X>
-		<Y>1722.249</Y>
-		<Z>109.462547</Z>
+                <X>1528.48022</X>
+                <Y>1722.249</Y>
+                <Z>109.462547</Z>
               </Location>
               <Heading>-163.80777</Heading>
               <Percentage>0</Percentage>
@@ -250,9 +250,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1525.1366</X>
-		<Y>1731.46521</Y>
-		<Z>109.593239</Z>
+                <X>1525.1366</X>
+                <Y>1731.46521</Y>
+                <Z>109.593239</Z>
               </Location>
               <Heading>-106.903824</Heading>
               <Percentage>0</Percentage>
@@ -276,9 +276,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>1522.23767</X>
-		<Y>1720.61475</Y>
-		<Z>109.436371</Z>
+                <X>1522.23767</X>
+                <Y>1720.61475</Y>
+                <Z>109.436371</Z>
               </Location>
               <Heading>8.214884</Heading>
               <Percentage>0</Percentage>
@@ -299,7 +299,7 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>				
+            </ConditionalLocation>
           </PossibleVehicleSpawns>
         </ConditionalGroup>
       </PossibleGroupSpawns>
