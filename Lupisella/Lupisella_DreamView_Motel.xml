@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -109,8 +109,8 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_AA_COFFEE</string>			  
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_AA_COFFEE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -139,8 +139,8 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_AA_COFFEE</string>			  
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_AA_COFFEE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -154,7 +154,7 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>			
+            </ConditionalLocation>
           </PossiblePedSpawns>
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">

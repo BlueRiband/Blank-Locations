@@ -109,7 +109,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_AA_COFFEE</string>			  
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
