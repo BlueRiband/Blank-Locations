@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-816.9778</X>
-		<Y>-579.811646</Y>
-		<Z>30.276268</Z>
+                <X>-816.9778</X>
+                <Y>-579.811646</Y>
+                <Z>30.276268</Z>
               </Location>
               <Heading>-47.23438</Heading>
               <Percentage>0</Percentage>
@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-815.8612</X>
-		<Y>-579.4198</Y>
-		<Z>30.276268</Z>
+                <X>-815.8612</X>
+                <Y>-579.4198</Y>
+                <Z>30.276268</Z>
               </Location>
               <Heading>88.0008545</Heading>
               <Percentage>0</Percentage>
@@ -129,9 +129,9 @@
             </ConditionalLocation>		  
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-821.675232</X>
-		<Y>-571.7261</Y>
-		<Z>30.2762737</Z>
+                <X>-821.675232</X>
+                <Y>-571.7261</Y>
+                <Z>30.2762737</Z>
               </Location>
               <Heading>-53.9781</Heading>
               <Percentage>0</Percentage>
@@ -142,7 +142,7 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string> 
-		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -159,9 +159,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-821.061768</X>
-		<Y>-570.790649</Y>
-		<Z>30.276268</Z>
+                <X>-821.061768</X>
+                <Y>-570.790649</Y>
+                <Z>30.276268</Z>
               </Location>
               <Heading>171.28537</Heading>
               <Percentage>0</Percentage>
@@ -190,9 +190,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-820.512756</X>
-		<Y>-571.585938</Y>
-		<Z>30.276268</Z>
+                <X>-820.512756</X>
+                <Y>-571.585938</Y>
+                <Z>30.276268</Z>
               </Location>
               <Heading>90.0175858</Heading>
               <Percentage>0</Percentage>
@@ -221,9 +221,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-811.278259</X>
-		<Y>-576.557739</Y>
-		<Z>30.1262836</Z>
+                <X>-811.278259</X>
+                <Y>-576.557739</Y>
+                <Z>30.1262836</Z>
               </Location>
               <Heading>-77.8068848</Heading>
               <Percentage>0</Percentage>
@@ -249,12 +249,12 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>	
+            </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-810.0571</X>
-		<Y>-577.121948</Y>
-		<Z>30.1262627</Z>
+                <X>-810.0571</X>
+                <Y>-577.121948</Y>
+                <Z>30.1262627</Z>
               </Location>
               <Heading>30.1262627</Heading>
               <Percentage>0</Percentage>
@@ -283,9 +283,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-809.8108</X>
-		<Y>-575.6605</Y>
-		<Z>30.1262627</Z>
+                <X>-809.8108</X>
+                <Y>-575.6605</Y>
+                <Z>30.1262627</Z>
               </Location>
               <Heading>163.444031</Heading>
               <Percentage>0</Percentage>
@@ -311,14 +311,14 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>					
+            </ConditionalLocation>
           </PossiblePedSpawns>
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-809.834656</X>
-		<Y>-578.847839</Y>
-		<Z>29.82631</Z>
+                <X>-809.834656</X>
+                <Y>-578.847839</Y>
+                <Z>29.82631</Z>
               </Location>
               <Heading>71.65619</Heading>
               <Percentage>0</Percentage>
@@ -342,9 +342,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-811.8729</X>
-		<Y>-574.873169</Y>
-		<Z>29.8259125</Z>
+                <X>-811.8729</X>
+                <Y>-574.873169</Y>
+                <Z>29.8259125</Z>
               </Location>
               <Heading>119.821495</Heading>
               <Percentage>0</Percentage>
@@ -368,9 +368,9 @@
             </ConditionalLocation>	
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-813.915039</X>
-		<Y>-571.4519</Y>
-		<Z>29.8261261</Z>
+                <X>-813.915039</X>
+                <Y>-571.4519</Y>
+                <Z>29.8261261</Z>
               </Location>
               <Heading>110.202843</Heading>
               <Percentage>0</Percentage>
@@ -391,7 +391,7 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>			
+            </ConditionalLocation>
           </PossibleVehicleSpawns>
         </ConditionalGroup>
       </PossibleGroupSpawns>

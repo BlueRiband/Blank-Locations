@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>-705.266541</X>
-        <Y>-886.135559</Y>
-        <Z>23.80288</Z>
+        <X>-704.411133</X>
+        <Y>-886.581055</Y>
+        <Z>23.8038883</Z>
       </EntrancePosition>
-      <EntranceHeading>-103.394684</EntranceHeading>
+      <EntranceHeading>11.4982653</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
