@@ -78,11 +78,11 @@
               <AllowAirVehicle>false</AllowAirVehicle>
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
-			  <ForcedScenarios>
-				<string>WORLD_HUMAN_VEHICLE_MECHANIC</string>
-				<string>WORLD_HUMAN_DRINKING</string>
-				<string>WORLD_HUMAN_SMOKING</string>			
-			  </ForcedScenarios>	
+	      <ForcedScenarios>
+		 <string>WORLD_HUMAN_VEHICLE_MECHANIC</string>
+		 <string>WORLD_HUMAN_DRINKING</string>
+		 <string>WORLD_HUMAN_SMOKING</string>			
+	      </ForcedScenarios>	
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -109,10 +109,10 @@
               <AllowAirVehicle>false</AllowAirVehicle>
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
-			  <ForcedScenarios>
-				<string>WORLD_HUMAN_DRINKING</string>
-				<string>WORLD_HUMAN_SMOKING</string>
-			  </ForcedScenarios>
+	       <ForcedScenarios>
+		 <string>WORLD_HUMAN_DRINKING</string>
+		 <string>WORLD_HUMAN_SMOKING</string>
+	      </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
@@ -129,12 +129,12 @@
           </PossiblePedSpawns>
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
-			  <Location>
-			<X>1984.251</X>
-			<Y>3781.2998</Y>
-			<Z>31.7491341</Z>
-			  </Location>
-			  <Heading>125.078163</Heading>
+	      <Location>
+		<X>1984.251</X>
+		<Y>3781.2998</Y>
+		<Z>31.7491341</Z>
+	      </Location>
+	      <Heading>125.078163</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
