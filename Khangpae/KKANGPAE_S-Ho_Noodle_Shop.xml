@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-			    <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
