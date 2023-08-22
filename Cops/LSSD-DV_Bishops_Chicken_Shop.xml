@@ -1,7 +1,7 @@
     <BlankLocation>
       <Name>BishopsChickenCop</Name>
       <FullName>BishopsChickenCop</FullName>
-      <Description>A Cop at the Bishop's Chicken Shop</Description>
+      <Description>A Cops at the Bishop's Chicken Shop</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
@@ -14,9 +14,9 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-	<X>162.7488</X>
-	<Y>-1635.17139</Y>
-	<Z>29.0993519</Z>
+        <X>162.7488</X>
+        <Y>-1635.17139</Y>
+        <Z>29.0993519</Z>
       </EntrancePosition>
       <EntranceHeading>-165.366577</EntranceHeading>
       <OpenTime>16</OpenTime>
@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-		<X>165.5919</X>
-		<Y>-1633.8645</Y>
-		<Z>29.5416718</Z>
+                <X>165.5919</X>
+                <Y>-1633.8645</Y>
+                <Z>29.5416718</Z>
               </Location>
               <Heading>9.506291</Heading>
               <Percentage>0</Percentage>
@@ -99,12 +99,12 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-		<X>162.7488</X>
-		<Y>-1635.17139</Y>
-		<Z>29.0993519</Z>
+                <X>162.7488</X>
+                <Y>-1635.17139</Y>
+                <Z>29.0993519</Z>
               </Location>
               <Heading>-165.366577</Heading>
-	      <Percentage>100</Percentage>
+              <Percentage>100</Percentage>
               <IsEmpty>true</IsEmpty>		  
               <GroupID />
               <AllowAirVehicle>false</AllowAirVehicle>

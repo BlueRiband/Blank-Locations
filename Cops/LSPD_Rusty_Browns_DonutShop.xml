@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-		<X>355.86142</X>
-		<Y>-1034.71484</Y>
-		<Z>29.3312111</Z>
+                <X>355.86142</X>
+                <Y>-1034.71484</Y>
+                <Z>29.3312111</Z>
               </Location>
               <Heading>26.8254089</Heading>
               <Percentage>0</Percentage>
@@ -97,13 +97,13 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-		<X>355.040558</X>
-		<Y>-1034.04626</Y>
-		<Z>29.3310986</Z>
+                <X>355.040558</X>
+                <Y>-1034.04626</Y>
+                <Z>29.3310986</Z>
               </Location>
               <Heading>-123.7173</Heading>
               <Percentage>0</Percentage>
-	      <AssociationID>LSPD-ASD</AssociationID>
+              <AssociationID>LSPD-ASD</AssociationID>
               <IsEmpty>true</IsEmpty>
               <GroupID />
               <AllowAirVehicle>false</AllowAirVehicle>
@@ -130,12 +130,12 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-		<X>355.143463</X>
-		<Y>-1036.62842</Y>
-		<Z>28.8148289</Z>
+                <X>355.143463</X>
+                <Y>-1036.62842</Y>
+                <Z>28.8148289</Z>
               </Location>
               <Heading>88.71296</Heading>
-	      <Percentage>100</Percentage>
+              <Percentage>100</Percentage>
               <IsEmpty>true</IsEmpty>		  
               <GroupID />
               <AllowAirVehicle>false</AllowAirVehicle>
