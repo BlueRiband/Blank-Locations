@@ -79,9 +79,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+                <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_PARTYING</string>	
+                <string>WORLD_HUMAN_PARTYING</string>	
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -110,9 +110,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-     		<string>WORLD_HUMAN_PARTYING</string>
-	    	<string>WORLD_HUMAN_STAND_MOBILE</string>
-	    	<string>WORLD_HUMAN_DRUG_DEALER</string>
+                <string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
+                <string>WORLD_HUMAN_DRUG_DEALER</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -141,9 +141,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-       		<string>WORLD_HUMAN_DRINKING</string>
-     		<string>WORLD_HUMAN_PARTYING</string>
-	     	<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+                <string>WORLD_HUMAN_DRINKING</string>
+                <string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -172,9 +172,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-     		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-	     	<string>WORLD_HUMAN_STAND_MOBILE</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -203,9 +203,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-	    	<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+                <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -234,9 +234,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_PARTYING</string>
-		<string>WORLD_HUMAN_DRUG_DEALER</string>
-		<string>WORLD_HUMAN_STAND_MOBILE</string>
+                <string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_DRUG_DEALER</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -265,9 +265,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_STAND_MOBILE</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -315,9 +315,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-	    	 <X>286.650269</X>
-	     	 <Y>-2505.74121</Y>
-		 <Z>6.37695646</Z>
+                <X>286.650269</X>
+                <Y>-2505.74121</Y>
+                <Z>6.37695646</Z>
               </Location>
               <Heading>-84.0405655</Heading>
               <Percentage>0</Percentage>
@@ -327,9 +327,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-	    	<string>WORLD_HUMAN_DRINKING</string>
-	    	<string>WORLD_HUMAN_SMOKING_POT</string>
-		<string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_DRINKING</string>
+                <string>WORLD_HUMAN_SMOKING_POT</string>
+                <string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -359,8 +359,8 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-	    		<string>WORLD_HUMAN_SMOKING_POT</string>
-	    		<string>WORLD_HUMAN_PARTYING</string>
+                <string>WORLD_HUMAN_SMOKING_POT</string>
+                <string>WORLD_HUMAN_PARTYING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -374,7 +374,7 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>			
+            </ConditionalLocation>
           </PossiblePedSpawns>
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
@@ -480,7 +480,7 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>			
+            </ConditionalLocation>
           </PossibleVehicleSpawns>
         </ConditionalGroup>
       </PossibleGroupSpawns>
@@ -499,4 +499,4 @@
         <Roll>0</Roll>
         <Yaw>0</Yaw>
       </VehiclePreviewCameraRotation>
-    </BlankLocation>	
+    </BlankLocation>

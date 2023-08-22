@@ -67,9 +67,9 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>226.562225</X>
-		<Y>-2649.64844</Y>
-		<Z>6.013142</Z>	
+                <X>226.562225</X>
+                <Y>-2649.64844</Y>
+                <Z>6.013142</Z>	
               </Location>
               <Heading>-119.707268</Heading>
               <Percentage>0</Percentage>
@@ -79,9 +79,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
-		<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
-		<string>WORLD_HUMAN_DRINKING</string>	
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+                <string>WORLD_HUMAN_DRINKING</string>	
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>227.356323</X>
-		<Y>-2649.26245</Y>
-		<Z>6.011755</Z>
+                <X>227.356323</X>
+                <Y>-2649.26245</Y>
+                <Z>6.011755</Z>
               </Location>
               <Heading>173.294861</Heading>
               <Percentage>0</Percentage>
@@ -110,9 +110,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_DRUG_DEALER</string>		  
-		<string>WORLD_HUMAN_HANG_OUT_STREET</string>
-		<string>WORLD_HUMAN_DRINKING</string>
+                <string>WORLD_HUMAN_DRUG_DEALER</string>		  
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_DRINKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -129,9 +129,9 @@
             </ConditionalLocation>		  
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>227.254562</X>
-		<Y>-2658.76514</Y>
-		<Z>5.996807</Z>
+                <X>227.254562</X>
+                <Y>-2658.76514</Y>
+                <Z>5.996807</Z>
               </Location>
               <Heading>8.154132</Heading>
               <Percentage>0</Percentage>
@@ -141,9 +141,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_STAND_MOBILE</string>		  
-		<string>WORLD_HUMAN_SMOKING_POT</string>
-		<string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>		  
+                <string>WORLD_HUMAN_SMOKING_POT</string>
+                <string>WORLD_HUMAN_DRUG_DEALER_HARD</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -160,9 +160,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>227.146591</X>
-		<Y>-2650.60547</Y>
-		<Z>6.008636</Z>
+                <X>227.146591</X>
+                <Y>-2650.60547</Y>
+                <Z>6.008636</Z>
               </Location>
               <Heading>6.473634</Heading>
               <Percentage>0</Percentage>
@@ -172,9 +172,9 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_PARTYING</string>		  
-		<string>WORLD_HUMAN_SMOKING_POT</string>
-		<string>WORLD_HUMAN_DRUG_DEALER</string>
+                <string>WORLD_HUMAN_PARTYING</string>		  
+                <string>WORLD_HUMAN_SMOKING_POT</string>
+                <string>WORLD_HUMAN_DRUG_DEALER</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -193,9 +193,9 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>227.7079</X>
-		<Y>-2660.66943</Y>
-		<Z>5.29467869</Z>
+                <X>227.7079</X>
+                <Y>-2660.66943</Y>
+                <Z>5.29467869</Z>
               </Location>
               <Heading>124.063469</Heading>
               <Percentage>0</Percentage>
