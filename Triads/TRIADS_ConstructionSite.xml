@@ -68,8 +68,8 @@
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
                 <X>-95.48102</X>
-				<Y>-972.4038</Y>
-				<Z>21.2768536</Z>
+		<Y>-972.4038</Y>
+		<Z>21.2768536</Z>
               </Location>
               <Heading>171.851868</Heading>
               <Percentage>0</Percentage>
@@ -97,8 +97,8 @@
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
                 <X>-95.61737</X>
-				<Y>-975.4075</Y>
-				<Z>21.2768536</Z>
+		<Y>-975.4075</Y>
+		<Z>21.2768536</Z>
               </Location>
               <Heading>-0.408417434</Heading>
               <Percentage>0</Percentage>
@@ -127,8 +127,8 @@
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
                 <X>-96.5165558</X>
-				<Y>-973.006165</Y>
-				<Z>21.2768536</Z>
+		<Y>-973.006165</Y>
+		<Z>21.2768536</Z>
               </Location>
               <Heading>-139.508392</Heading>
               <Percentage>0</Percentage>
@@ -159,8 +159,8 @@
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
                 <X>-96.0987</X>
-				<Y>-981.312</Y>
-				<Z>20.9767284</Z>
+		<Y>-981.312</Y>
+		<Z>20.9767284</Z>
               </Location>
               <Heading>-55.6620331</Heading>
               <Percentage>0</Percentage>
