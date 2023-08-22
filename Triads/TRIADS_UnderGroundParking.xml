@@ -60,16 +60,16 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>18</MinHourSpawn>
+          <MinHourSpawn>20</MinHourSpawn>
           <MaxHourSpawn>4</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-144.984909</X>
-		<Y>-613.7332</Y>
-		<Z>32.4244843</Z>
+                <X>-144.984909</X>
+                <Y>-613.7332</Y>
+                <Z>32.4244843</Z>
               </Location>
               <Heading>-56.97806</Heading>
               <Percentage>0</Percentage>
@@ -81,7 +81,7 @@
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
-		<string>WORLD_HUMAN_STAND_MOBILE_UPRIGHT</string>
+                <string>WORLD_HUMAN_STAND_MOBILE_UPRIGHT</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -98,9 +98,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-143.35524</X>
-		<Y>-613.566</Y>
-		<Z>32.5890427</Z>
+                <X>-143.35524</X>
+                <Y>-613.566</Y>
+                <Z>32.5890427</Z>
               </Location>
               <Heading>66.68578</Heading>
               <Percentage>0</Percentage>
@@ -110,7 +110,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
               </ForcedScenarios>
@@ -129,9 +129,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-144.174652</X>
-		<Y>-612.4281</Y>
-		<Z>32.4245071</Z>
+                <X>-144.174652</X>
+                <Y>-612.4281</Y>
+                <Z>32.4245071</Z>
               </Location>
               <Heading>168.01622</Heading>
               <Percentage>0</Percentage>
@@ -143,7 +143,7 @@
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_MOBILE</string>
-		<string>WORLD_HUMAN_DRINKING</string>
+                <string>WORLD_HUMAN_DRINKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -160,9 +160,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-149.813843</X>
-		<Y>-607.623047</Y>
-		<Z>32.42457</Z>
+                <X>-149.813843</X>
+                <Y>-607.623047</Y>
+                <Z>32.42457</Z>
               </Location>
               <Heading>160.985</Heading>
               <Percentage>0</Percentage>
@@ -172,7 +172,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-		<string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_STAND_IMPATIENT</string>
               </ForcedScenarios>
@@ -188,12 +188,12 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>	
+            </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-148.73912</X>
-		<Y>-615.175</Y>
-		<Z>32.427784</Z>
+                <X>-148.73912</X>
+                <Y>-615.175</Y>
+                <Z>32.427784</Z>
               </Location>
               <Heading>24.1871662</Heading>
               <Percentage>0</Percentage>
@@ -221,9 +221,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-149.4514</X>
-		<Y>-608.7309</Y>
-		<Z>32.42451</Z>
+                <X>-149.4514</X>
+                <Y>-608.7309</Y>
+                <Z>32.42451</Z>
               </Location>
               <Heading>34.6204529</Heading>
               <Percentage>0</Percentage>
@@ -253,9 +253,9 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-147.6679</X>
-		<Y>-610.4272</Y>
-		<Z>31.8127689</Z>
+                <X>-147.6679</X>
+                <Y>-610.4272</Y>
+                <Z>31.8127689</Z>
               </Location>
               <Heading>0.7192951</Heading>
               <Percentage>0</Percentage>
@@ -279,9 +279,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-148.1147</X>
-		<Y>-616.1925</Y>
-		<Z>31.81277</Z>
+                <X>-148.1147</X>
+                <Y>-616.1925</Y>
+                <Z>31.81277</Z>
               </Location>
               <Heading>-61.16846</Heading>
               <Percentage>0</Percentage>
@@ -305,9 +305,9 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-		<X>-155.761948</X>
-		<Y>-606.876038</Y>
-		<Z>31.8127689</Z>
+                <X>-155.761948</X>
+                <Y>-606.876038</Y>
+                <Z>31.8127689</Z>
               </Location>
               <Heading>159.73288</Heading>
               <Percentage>0</Percentage>
