@@ -1,6 +1,6 @@
     <BlankLocation>
-      <Name>GambettiGuidos</Name>
-      <Description>2 Gambetti outside Guidos Pizza Store</Description>
+      <Name>GambettiPower</Name>
+      <Description>3 Gambetti in a alley off Power Street</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
@@ -60,18 +60,18 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>8</MinHourSpawn>
-          <MaxHourSpawn>20</MaxHourSpawn>
+          <MinHourSpawn>18</MinHourSpawn>
+          <MaxHourSpawn>4</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>445.033722</X>
-                <Y>131.4324</Y>
-                <Z>99.83509</Z>
+                <X>403.171539</X>
+                <Y>58.5098648</Y>
+                <Z>97.97793</Z>
               </Location>
-              <Heading>139.724289</Heading>
+              <Heading>71.056015</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -79,8 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_AA_SMOKE</string>
-                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
+                <string>WORLD_HUMAN_GUARD_STAND_CASINO</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -97,11 +96,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>443.824982</X>
-                <Y>131.911621</Y>
-                <Z>99.904335</Z>
+                <X>401.288574</X>
+                <Y>58.4186363</Y>
+                <Z>97.97788</Z>
               </Location>
-              <Heading>-162.007767</Heading>
+              <Heading>-65.97093</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -110,6 +109,34 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_STAND_MOBILE</string>
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+                <X>401.338867</X>
+                <Y>59.4011345</Y>
+                <Z>97.97728</Z>
+              </Location>
+              <Heading>-135.7666</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
                 <string>WORLD_HUMAN_AA_SMOKE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -129,11 +156,37 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>443.765625</X>
-                <Y>121.429382</Y>
-                <Z>98.95059</Z>
+                <X>390.47406</X>
+                <Y>57.6206436</Y>
+                <Z>97.26919</Z>
               </Location>
-              <Heading>69.60268</Heading>
+              <Heading>66.49467</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>false</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>None</TaskRequirements>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+                <X>400.647217</X>
+                <Y>60.9393463</Y>
+                <Z>97.26937</Z>
+              </Location>
+              <Heading>-69.4889145</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
