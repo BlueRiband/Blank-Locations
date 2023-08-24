@@ -61,7 +61,7 @@
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
           <MinHourSpawn>8</MinHourSpawn>
-          <MaxHourSpawn>18</MaxHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
