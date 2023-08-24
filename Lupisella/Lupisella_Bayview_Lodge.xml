@@ -60,7 +60,7 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>12</MinHourSpawn>
+          <MinHourSpawn>8</MinHourSpawn>
           <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
