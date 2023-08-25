@@ -301,11 +301,11 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>2158.839</X>
-                <Y>4810.1875</Y>
-                <Z>40.89422</Z>
+                <X>2153.42065</X>
+                <Y>4795.94775</Y>
+                <Z>40.86859</Z>
               </Location>
-              <Heading>-113.554893</Heading>
+              <Heading>-142.561356</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>false</IsEmpty>
               <GroupID />
@@ -327,11 +327,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>2153.41577</X>
-                <Y>4795.96973</Y>
-                <Z>40.8689842</Z>
+                <X>2147.887</X>
+                <Y>4798.0835</Y>
+                <Z>40.790863</Z>
               </Location>
-              <Heading>-142.547714</Heading>
+              <Heading>140.45401</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
