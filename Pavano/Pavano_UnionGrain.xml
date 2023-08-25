@@ -18,8 +18,8 @@
         <Z>40.884388</Z>
       </EntrancePosition>
       <EntranceHeading>57.4096375</EntranceHeading>
-      <OpenTime>6</OpenTime>
-      <CloseTime>20</CloseTime>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -96,11 +96,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>2032.79016</X>
-                <Y>4983.199</Y>
-                <Z>40.9896774</Z>
+                <X>2033.63074</X>
+                <Y>4982.353</Y>
+                <Z>41.09223</Z>
               </Location>
-              <Heading>-179.274979</Heading>
+              <Heading>106.056923</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
