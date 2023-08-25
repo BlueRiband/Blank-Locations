@@ -67,11 +67,11 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1785.30957</X>
-                <Y>4590.482</Y>
+                <X>1784.07007</X>
+                <Y>4591.093</Y>
                 <Z>37.68299</Z>
               </Location>
-              <Heading>166.310913</Heading>
+              <Heading>-147.998154</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -79,7 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -96,11 +96,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1784.12024</X>
-                <Y>4590.36865</Y>
+                <X>1785.03247</X>
+                <Y>4591.322</Y>
                 <Z>37.68299</Z>
               </Location>
-              <Heading>-159.998367</Heading>
+              <Heading>-179.689392</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
