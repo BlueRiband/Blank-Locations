@@ -67,11 +67,11 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-1291.06592</X>
-                <Y>-1403.79712</Y>
-                <Z>4.5761714</Z>
+                <X>-1290.6355</X>
+                <Y>-1404.04114</Y>
+                <Z>4.5939</Z>
               </Location>
-              <Heading>144.773361</Heading>
+              <Heading>144.772919</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -97,11 +97,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-1290.95313</X>
-                <Y>-1404.86475</Y>
-                <Z>4.540293</Z>
+                <X>-1291.25537</X>
+                <Y>-1403.22266</Y>
+                <Z>4.602179</Z>
               </Location>
-              <Heading>62.025547</Heading>
+              <Heading>135.886459</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
