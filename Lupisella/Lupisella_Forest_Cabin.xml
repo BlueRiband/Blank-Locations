@@ -18,8 +18,8 @@
         <Z>34.0318527</Z>
       </EntrancePosition>
       <EntranceHeading>135.767426</EntranceHeading>
-      <OpenTime>6</OpenTime>
-      <CloseTime>20</CloseTime>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
