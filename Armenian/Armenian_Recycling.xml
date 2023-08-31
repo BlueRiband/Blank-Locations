@@ -1,6 +1,6 @@
     <BlankLocation>
-      <Name>ArmenianGasStation</Name>
-      <Description>Armenian's at the Globe Oil Gas Station</Description>
+      <Name>ArmenianRecycling</Name>
+      <Description>Armenian's at the Ls Recycling Depot</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>-339.783447</X>
-        <Y>-1463.81116</Y>
-        <Z>30.2949715</Z>
+        <X>-333.724518</X>
+        <Y>-1530.57983</Y>
+        <Z>27.2519684</Z>
       </EntrancePosition>
-      <EntranceHeading>-111.3623</EntranceHeading>
+      <EntranceHeading>173.208725</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -60,18 +60,18 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>18</MinHourSpawn>
-          <MaxHourSpawn>4</MaxHourSpawn>
+          <MinHourSpawn>8</MinHourSpawn>
+          <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-341.025482</X>
-                <Y>-1460.56055</Y>
-                <Z>30.7532063</Z>
+                <X>-347.698944</X>
+                <Y>-1548.7583</Y>
+                <Z>27.7213364</Z>
               </Location>
-              <Heading>-175.107147</Heading>
+              <Heading>173.216492</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -80,7 +80,34 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
+              </ForcedScenarios>
+              <OverrideNightPercentage>-1</OverrideNightPercentage>
+              <OverrideDayPercentage>-1</OverrideDayPercentage>
+              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
+              <MinHourSpawn>0</MinHourSpawn>
+              <MaxHourSpawn>24</MaxHourSpawn>
+              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
+              <ForceMelee>false</ForceMelee>
+              <ForceSidearm>false</ForceSidearm>
+              <ForceLongGun>false</ForceLongGun>
+              <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
+            </ConditionalLocation>
+            <ConditionalLocation xsi:type="GangConditionalLocation">
+              <Location>
+                <X>-357.337982</X>
+                <Y>-1514.53918</Y>
+                <Z>27.716526</Z>
+              </Location>
+              <Heading>166.3024</Heading>
+              <Percentage>0</Percentage>
+              <IsEmpty>true</IsEmpty>
+              <GroupID />
+              <AllowAirVehicle>false</AllowAirVehicle>
+              <AllowBoat>false</AllowBoat>
+              <TaskRequirements>Guard</TaskRequirements>
+              <ForcedScenarios>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -98,11 +125,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-342.3172</X>
-                <Y>-1460.754</Y>
-                <Z>30.7542648</Z>
+                <X>-348.6397</X>
+                <Y>-1548.77637</Y>
+                <Z>27.7213287</Z>
               </Location>
-              <Heading>-126.95813</Heading>
+              <Heading>-156.5172</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -111,8 +138,6 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
-                <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
@@ -126,14 +151,14 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>		  
+            </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-342.598877</X>
-                <Y>-1462.05017</Y>
-                <Z>30.61145</Z>
+                <X>-321.085754</X>
+                <Y>-1545.99243</Y>
+                <Z>31.020853</Z>
               </Location>
-              <Heading>-89.4807053</Heading>
+              <Heading>-90.79362</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -141,8 +166,6 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -160,11 +183,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-340.32193</X>
-                <Y>-1462.54675</Y>
-                <Z>30.6085739</Z>
+                <X>-358.226471</X>
+                <Y>-1514.672</Y>
+                <Z>27.7161579</Z>
               </Location>
-              <Heading>29.692131</Heading>
+              <Heading>-156.098648</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -172,8 +195,6 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -193,13 +214,13 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-339.783447</X>
-                <Y>-1463.81116</Y>
-                <Z>30.2949715</Z>
+                <X>-368.7641</X>
+                <Y>-1525.95947</Y>
+                <Z>27.4667568</Z>
               </Location>
-              <Heading>-82.8643646</Heading>
+              <Heading>177.648941</Heading>
               <Percentage>0</Percentage>
-              <IsEmpty>true</IsEmpty>
+              <IsEmpty>false</IsEmpty>
               <GroupID />
               <AllowAirVehicle>false</AllowAirVehicle>
               <AllowBoat>false</AllowBoat>
@@ -219,11 +240,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-337.9729</X>
-                <Y>-1459.47632</Y>
-                <Z>30.2743855</Z>
+                <X>-333.724518</X>
+                <Y>-1530.57983</Y>
+                <Z>27.2519684</Z>
               </Location>
-              <Heading>99.35658</Heading>
+              <Heading>173.208725</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
