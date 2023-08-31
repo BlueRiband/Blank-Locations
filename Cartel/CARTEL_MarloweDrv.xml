@@ -1,6 +1,6 @@
     <BlankLocation>
-      <Name>CartelCementWorks</Name>
-      <Description>2 Cartel members at the Cement Works, located on Senora Road near the cow field</Description>
+      <Name>CARTELMarlowe</Name>
+      <Description>2 Cartel members on Marlowe Drive</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>1198.32</X>
-        <Y>1839.74487</Y>
-        <Z>78.7323</Z>
+        <X>-626.272766</X>
+        <Y>976.3135</Y>
+        <Z>240.4571</Z>
       </EntrancePosition>
-      <EntranceHeading>118.935829</EntranceHeading>
+      <EntranceHeading>93.7183762</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -60,18 +60,18 @@
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>6</MinHourSpawn>
-          <MaxHourSpawn>18</MaxHourSpawn>
+          <MinHourSpawn>0</MinHourSpawn>
+          <MaxHourSpawn>24</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1198.68945</X>
-                <Y>1836.50574</Y>
-                <Z>78.85123</Z>
+                <X>-624.861145</X>
+                <Y>974.023865</Y>
+                <Z>241.187973</Z>
               </Location>
-              <Heading>26.2503586</Heading>
+              <Heading>68.08593</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -79,8 +79,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -95,14 +94,14 @@
               <ForceSidearm>false</ForceSidearm>
               <ForceLongGun>false</ForceLongGun>
               <TerritorySpawnsForceMainGang>false</TerritorySpawnsForceMainGang>
-            </ConditionalLocation>
+            </ConditionalLocation>	
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1198.32</X>
-                <Y>1839.74487</Y>
-                <Z>78.7323</Z>
+                <X>-626.0344</X>
+                <Y>973.9877</Y>
+                <Z>241.19487</Z>
               </Location>
-              <Heading>118.935829</Heading>
+              <Heading>-63.0632477</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -110,8 +109,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_CLIPBOARD</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>
+                <string>WORLD_HUMAN_HANG_OUT_STREET</string>
                 <string>WORLD_HUMAN_SMOKING</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
@@ -131,11 +129,11 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1198.72668</X>
-                <Y>1834.9823</Y>
-                <Z>78.53899</Z>
+                <X>-626.272766</X>
+                <Y>976.3135</Y>
+                <Z>240.4571</Z>
               </Location>
-              <Heading>-78.52052</Heading>
+              <Heading>93.7183762</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
