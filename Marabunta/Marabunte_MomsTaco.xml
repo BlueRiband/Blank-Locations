@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>1117.47424</X>
-        <Y>-971.558655</Y>
-        <Z>46.2717056</Z>
+        <X>1116.74084</X>
+        <Y>-970.633362</Y>
+        <Z>46.2896538</Z>
       </EntrancePosition>
-      <EntranceHeading>-141.693192</EntranceHeading>
+      <EntranceHeading>-163.639023</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
@@ -67,11 +67,11 @@
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1121.75</X>
-                <Y>-969.1599</Y>
-                <Z>46.6967163</Z>
+                <X>1119.24939</X>
+                <Y>-967.015869</Y>
+                <Z>46.762886</Z>
               </Location>
-              <Heading>101.815811</Heading>
+              <Heading>130.180008</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -96,11 +96,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1121.10852</X>
-                <Y>-968.1682</Y>
-                <Z>46.7372</Z>
+                <X>1119.69275</X>
+                <Y>-968.1276</Y>
+                <Z>46.7057343</Z>
               </Location>
-              <Heading>131.383224</Heading>
+              <Heading>104.150993</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -125,11 +125,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1119.43176</X>
-                <Y>-969.8031</Y>
-                <Z>46.64055</Z>
+                <X>1118.16882</X>
+                <Y>-968.523743</Y>
+                <Z>46.67151</Z>
               </Location>
-              <Heading>-62.19331</Heading>
+              <Heading>-45.1917648</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -156,11 +156,11 @@
           <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>1117.30042</X>
-                <Y>-970.8827</Y>
-                <Z>46.29099</Z>
+                <X>1116.74084</X>
+                <Y>-970.633362</Y>
+                <Z>46.2896538</Z>
               </Location>
-              <Heading>-135.015</Heading>
+              <Heading>-163.639023</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
