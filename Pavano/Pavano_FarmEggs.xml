@@ -154,11 +154,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>2548.86133</X>
-                <Y>4657.53174</Y>
+                <X>2547.98145</X>
+                <Y>4655.852</Y>
                 <Z>34.07679</Z>
               </Location>
-              <Heading>32.28136</Heading>
+              <Heading>33.00665</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -240,11 +240,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>2551.396</X>
-                <Y>4655.577</Y>
-                <Z>33.7767563</Z>
+                <X>2550.65137</X>
+                <Y>4653.69873</Y>
+                <Z>33.77675</Z>
               </Location>
-              <Heading>-127.321327</Heading>
+              <Heading>-121.47345</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
