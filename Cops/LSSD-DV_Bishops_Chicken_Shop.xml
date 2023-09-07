@@ -1,7 +1,7 @@
     <BlankLocation>
       <Name>BishopsChickenCop</Name>
       <FullName>BishopsChickenCop</FullName>
-      <Description>A Cops at the Bishop's Chicken Shop</Description>
+      <Description>SpeedTrap at the Bishop's Chicken Shop</Description>
       <IsEnabled>true</IsEnabled>
       <IsTemporarilyClosed>false</IsTemporarilyClosed>
       <BannerImagePath />
@@ -19,8 +19,8 @@
         <Z>29.0993519</Z>
       </EntrancePosition>
       <EntranceHeading>-165.366577</EntranceHeading>
-      <OpenTime>16</OpenTime>
-      <CloseTime>20</CloseTime>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
       <IsOnSPMap>true</IsOnSPMap>
@@ -60,56 +60,25 @@
           <OverrideNightPercentage>0</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>0</OverridePoorWeatherPercentage>
-          <MinHourSpawn>0</MinHourSpawn>
-          <MaxHourSpawn>24</MaxHourSpawn>
+          <MinHourSpawn>12</MinHourSpawn>
+          <MaxHourSpawn>16</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-          <PossiblePedSpawns>
+          <PossibleVehicleSpawns>
             <ConditionalLocation xsi:type="LEConditionalLocation">
               <Location>
-                <X>165.5919</X>
-                <Y>-1633.8645</Y>
-                <Z>29.5416718</Z>
+                <X>150.64415</X>
+                <Y>-1639.8501</Y>
+                <Z>29.0993366</Z>
               </Location>
-              <Heading>9.506291</Heading>
-              <Percentage>0</Percentage>
+              <Heading>-59.3966675</Heading>
+              <Percentage>100</Percentage>
+              <IsEmpty>false</IsEmpty>
               <AssociationID>LSSD-DV</AssociationID>
-              <IsEmpty>true</IsEmpty>
               <GroupID />
               <AllowAirVehicle>false</AllowAirVehicle>
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
-              <ForcedScenarios>
-                <string>WORLD_HUMAN_AA_COFFEE</string>			  
-                <string>WORLD_HUMAN_CLIPBOARD</string>
-              </ForcedScenarios>
-              <OverrideNightPercentage>-1</OverrideNightPercentage>
-              <OverrideDayPercentage>-1</OverrideDayPercentage>
-              <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-              <MinHourSpawn>0</MinHourSpawn>
-              <MaxHourSpawn>24</MaxHourSpawn>
-              <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
-              <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
-              <LongGunAlwaysEquipped>false</LongGunAlwaysEquipped>
-              <ForceMelee>false</ForceMelee>
-              <ForceSidearm>false</ForceSidearm>
-              <ForceLongGun>false</ForceLongGun>
-            </ConditionalLocation>
-          </PossiblePedSpawns>
-          <PossibleVehicleSpawns>
-            <ConditionalLocation xsi:type="LEConditionalLocation">
-              <Location>
-                <X>162.7488</X>
-                <Y>-1635.17139</Y>
-                <Z>29.0993519</Z>
-              </Location>
-              <Heading>-165.366577</Heading>
-              <Percentage>100</Percentage>
-              <IsEmpty>true</IsEmpty>		  
-              <GroupID />
-              <AllowAirVehicle>false</AllowAirVehicle>
-              <AllowBoat>false</AllowBoat>
-              <TaskRequirements>None</TaskRequirements>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
               <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
