@@ -109,7 +109,7 @@
               <AllowBoat>false</AllowBoat>
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
-                <string>WORLD_HUMAN_LEANING_CASINO_TERRACE</string>
+                <string>WORLD_HUMAN_STAND_MOBILE</string>
                 <string>WORLD_HUMAN_SMOKING_POT</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
