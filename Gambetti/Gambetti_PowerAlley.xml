@@ -13,11 +13,11 @@
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
       <EntrancePosition>
-        <X>443.765625</X>
-        <Y>121.429382</Y>
-        <Z>98.95059</Z>
+        <X>400.647217</X>
+        <Y>60.9393463</Y>
+        <Z>97.26937</Z>
       </EntrancePosition>
-      <EntranceHeading>69.60268</EntranceHeading>
+      <EntranceHeading>-69.4889145</EntranceHeading>
       <OpenTime>0</OpenTime>
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
