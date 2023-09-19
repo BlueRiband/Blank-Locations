@@ -8,7 +8,7 @@
       <IsBlipEnabled>false</IsBlipEnabled>
       <MapIcon>77</MapIcon>
       <MapIconColorString>White</MapIconColorString>
-      <MapIconScale>1</MapIconScale>
+      <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
       <MapOpenIconAlpha>1</MapOpenIconAlpha>
       <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
@@ -56,20 +56,20 @@
       <ActivateDistance>400</ActivateDistance>
       <PossibleGroupSpawns>
         <ConditionalGroup>
-          <Percentage>75</Percentage>
+          <Percentage>100</Percentage>
           <OverrideNightPercentage>-1</OverrideNightPercentage>
           <OverrideDayPercentage>-1</OverrideDayPercentage>
           <OverridePoorWeatherPercentage>-1</OverridePoorWeatherPercentage>
-          <MinHourSpawn>8</MinHourSpawn>
+          <MinHourSpawn>12</MinHourSpawn>
           <MaxHourSpawn>20</MaxHourSpawn>
           <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
           <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
           <PossiblePedSpawns>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-121.823822</X>
-                <Y>6392.17139</Y>
-                <Z>31.4863319</Z>
+                <X>-122.030838</X>
+                <Y>6393.409</Y>
+                <Z>31.4858971</Z>
               </Location>
               <Heading>-29.9900513</Heading>
               <Percentage>0</Percentage>
@@ -97,11 +97,11 @@
             </ConditionalLocation>
             <ConditionalLocation xsi:type="GangConditionalLocation">
               <Location>
-                <X>-120.947281</X>
-                <Y>6392.52148</Y>
-                <Z>31.4909077</Z>
+                <X>-121.251839</X>
+                <Y>6394.09033</Y>
+                <Z>31.4901848</Z>
               </Location>
-              <Heading>101.214355</Heading>
+              <Heading>101.214348</Heading>
               <Percentage>0</Percentage>
               <IsEmpty>true</IsEmpty>
               <GroupID />
@@ -110,7 +110,7 @@
               <TaskRequirements>Guard</TaskRequirements>
               <ForcedScenarios>
                 <string>WORLD_HUMAN_HANG_OUT_STREET</string>
-                <string>WORLD_HUMAN_AA_COFFEE</string>			  
+                <string>WORLD_HUMAN_AA_COFFEE</string>
               </ForcedScenarios>
               <OverrideNightPercentage>-1</OverrideNightPercentage>
               <OverrideDayPercentage>-1</OverrideDayPercentage>
